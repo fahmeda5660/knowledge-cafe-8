@@ -1,0 +1,10 @@
+.bookmarkedBlog-part{
+    background: rgba(17, 17, 17, 0.05);
+    border-radius: 8px;
+}
+.single-title{
+    background: white;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    padding: 10px 15px;
+}
